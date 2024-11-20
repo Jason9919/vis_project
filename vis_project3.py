@@ -6,6 +6,7 @@ import folium
 from folium.features import GeoJson, GeoJsonTooltip
 from streamlit_folium import st_folium
 
+
 # 제목 지어줌
 st.title("대한민국 시군구 합계출산율 지도")
 
